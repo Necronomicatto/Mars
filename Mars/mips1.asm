@@ -1,10 +1,10 @@
-.data
+.data 
 
-Rune: .asciiz "Lets all love Lain"
+caractere: .asciiz "HEllO World"
 
-.text
+.text 
 
-la $a0, Rune
+la $a0,caractere
 addi $v0,$zero,4
 
-syscall 
+syscall
