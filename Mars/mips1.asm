@@ -1,4 +1,4 @@
-.data 
+.data      //Hello world program
 
 caractere: .asciiz "HEllO World"
 
